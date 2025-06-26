@@ -92,7 +92,7 @@ Aplikasi desktop berbasis Python dengan GUI tkinter untuk mengelola minat olahra
 
    ```bash
    # Jika menggunakan git
-   git clone https://github.com/Jnckk/Minat-Bakar-Mahasiswa.git
+   git clone https://github.com/Jnckk/Minat-Bakat-Mahasiswa.git
    cd "Minat Bakat Mahasiswa"
    ```
 
